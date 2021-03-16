@@ -109,6 +109,10 @@ CSQ(CVPR2020)
 paper [Central Similarity Quantization for Efficient Image and Video Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Central_Similarity_Quantization_for_Efficient_Image_and_Video_Retrieval_CVPR_2020_paper.pdf)  
 code [CSQ-pytorch](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)  
 
+TBH(CVPR2020)
+paper [Auto-Encoding Twin-Bottleneck Hashing](https://github.com/ymcidence/TBH)
+code [Auto-Encoding Twin-Bottleneck Hashing](http://xxx.itp.ac.cn/pdf/2002.11930.pdf)
+
 Deep Unsupervised Image Hashing by Maximizing Bit Entropy(AAAI2021)  
 paper [Deep Unsupervised Image Hashing by Maximizing Bit Entropy](https://arxiv.org/pdf/2012.12334.pdf)  
 code [Deep-Unsupervised-Image-Hashing](https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing)
@@ -143,7 +147,8 @@ code [Deep-Unsupervised-Image-Hashing](https://github.com/liyunqianggyn/Deep-Uns
     </tr>
     <tr>
         <td ></td><td >imagenet</td> <td >0.502</td> <td >-</td>
-    </tr>
+    </tAuto-Encoding Twin-Bottleneck Hashing
+r>
     <tr>
         <td ></td><td >ms coco</td> <td >0.711</td> <td >-</td>
     </tr>
